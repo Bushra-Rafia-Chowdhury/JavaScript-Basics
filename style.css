@@ -1,0 +1,24 @@
+body {
+    height: 97vh;
+    width: 98%;
+    background-image: url(https://i.pinimg.com/736x/43/c4/47/43c4477d6760cb0ad791eee55b0b2278.jpg);
+    background-size:cover;
+}
+
+.h1{
+    position:absolute;
+    left:50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+    font-size:55px;
+    text-align:center;
+    border:5px solid black;
+}
+
+.button1{
+    border:none;
+    font-size:30px;
+    margin-top:40px;
+    padding:10px;
+}
